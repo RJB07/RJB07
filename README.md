@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I am Riwaj
 
-<!--
-**RJB07/RJB07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a builder from Kathmandu, Nepal.
 
-Here are some ideas to get you started:
+I started freelancing in 2023, designing and building websites and software for clients through Upwork. In 2026 I began building Pricifly, an AI procurement platform, from Kathmandu. Most of that work lives in private repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In Spring 2027 I begin my BBA in Entrepreneurship at California State University, Fresno, to learn how to grow what I build and bring it back home to Nepal.
+
+**Public work**
+SignBridge: a browser prototype that recognizes hand signs to help deaf and hard of hearing people communicate. Started in November 2024, published here in August 2026.
+
+**Links**
+Website: [riwajb.com](https://www.riwajb.com)
+LinkedIn: [riwajb](https://www.linkedin.com/in/riwajb)
