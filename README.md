@@ -2,7 +2,7 @@
 
 I am a builder from Kathmandu, Nepal.
 
-I started freelancing in 2023, designing and building websites and software for clients through Upwork. In 2026 I began building Pricifly, an AI procurement platform, from Kathmandu. Most of that work lives in private repositories.
+I started working as an independent freelance software engineer in 2023, designing and building websites and software for clients. In 2026 I began building Pricifly, an AI procurement platform, from Kathmandu. Most of that work lives in private repositories.
 
 **Public work**
 
